@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acerca_de">About</string>
+    <string name="app_name">" Calculator"</string>
+    <string name="regresar">Back</string>
+    <string name="autor">" Author"</string>
+</resources>

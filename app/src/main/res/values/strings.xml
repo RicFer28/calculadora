@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="regresar">Regresar</string>
+    <string name="esta_calculadora_fue_construida_por_richard_fernando_jojoa" translatable="false">esta_calculadora_fue_construida_por_richard_fernando_jojoa</string>
+    <string name="autor">Autor</string>
+    <string name="parab" translatable="false">(</string>
+</resources>
